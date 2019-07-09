@@ -33,7 +33,7 @@ client.on("message", msg => {
 })
 
 client.on("message", msg => {
-  if(msg.content.startsWith(`${PREFIX}warning`)){
+  if(msg.content.startsWith(`${PREFIX}reports`)){
     var argument = msg.content.split(" ").slice(1);
     var usertag = msg.mentions.users.first();
     msg.delete();
