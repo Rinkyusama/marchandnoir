@@ -1,0 +1,2 @@
+exports.TOKEN = "NDgzMzg0OTc1NTIyMTM2MDc2.XSNiZQ.TANBzCJ5ryTmJK9rW2TkyB499uk"
+exports.PREFIX = "mn?"
